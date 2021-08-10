@@ -1,0 +1,37 @@
+_repo: Musta-villakoira-ja-muita-jutelmia_65986
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hameen-Anttila, Vaino
+    - Hämeen-Anttila, V.
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+creator:
+  author:
+    agent_name: Anstey, F.
+    alias: Guthrie, Thomas Anstey
+    birthdate: 1856
+    deathdate: 1934
+    gutenberg_agent_id: '6137'
+    url: http://www.gutenberg.org/2009/agents/6137
+    wikipedia: http://en.wikipedia.org/wiki/F._Anstey
+description: ''
+gutenberg_issued: '2021-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65986'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Musta villakoira
+
+  ja muita jutelmia'
+url: http://www.gutenberg.org/ebooks/65986
